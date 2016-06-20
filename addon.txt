@@ -1,0 +1,9 @@
+AddonInfo
+{
+        "name"		"ServerWhitelist (by SteamID)"
+        "version"	"1.0"
+        "author_name"	"Zee"
+        "author_email"	"N/A"      
+        "info"		"A small, useful addon for GMod servers"
+        "override"	"1"
+}
